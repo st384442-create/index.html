@@ -1,0 +1,170 @@
+
+Enjoy wr<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mr X Thakur | Life Story</title>
+  <style>
+    body {
+      font-family: "Poppins", Arial, sans-serif;
+      background: linear-gradient(135deg, #141E30, #243B55);
+      color: #fff;
+      margin: 0;
+      padding: 0;
+      line-height: 1.8;
+    }
+
+    header {
+      background-color: rgba(0, 0, 0, 0.4);
+      text-align: center;
+      padding: 40px 20px;
+      border-bottom: 2px solid #00c3ff;
+    }
+
+    h1 {
+      color: #00c3ff;
+      font-size: 2.2em;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      color: #ffcc00;
+      margin-top: 40px;
+      border-bottom: 1px solid #444;
+      padding-bottom: 5px;
+    }
+
+    p {
+      text-align: justify;
+      padding: 0 20px;
+      font-size: 1.05em;
+    }
+
+    .section {
+      background: rgba(255, 255, 255, 0.05);
+      margin: 20px auto;
+      max-width: 800px;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0px 0px 15px rgba(0,0,0,0.5);
+    }
+
+    footer {
+      background: rgba(0, 0, 0, 0.5);
+      text-align: center;
+      padding: 15px;
+      color: #aaa;
+      font-size: 0.9em;
+      border-top: 1px solid #222;
+    }
+
+    .highlight {
+      color: #00c3ff;
+      font-weight: bold;
+    }
+
+    .goal-box {
+      background: rgba(0, 0, 0, 0.3);
+      border-left: 5px solid #ffcc00;
+      padding: 10px 15px;
+      margin: 10px 20px;
+      font-style: italic;
+    }
+
+    .button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 25px;
+      background: #00c3ff;
+      color: #000;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    .button:hover {
+      background: #ffcc00;
+      color: #000;
+    }
+
+    @media screen and (max-width: 600px) {
+      h1 { font-size: 1.8em; }
+      p { font-size: 1em; }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Mr X Thakur</h1>
+    <p>Ek aam ladke ki kahani – jo sapne dekhta hai, par unhe jeene ke liye sangharsh karta hai.</p>
+  </header>
+
+  <section class="section">
+    <h2>1. Parichay</h2>
+    <p><span class="highlight">Mr X Thakur</span> ek aisa ladka hai jiska jeevan ek chhoti si basti se shuru hota hai, lekin
+      uske sapne duniya se bade hain. Usne kabhi aish-o-aram nahi dekha, par kabhi haar bhi nahi maani.
+      Ye kahani hai ek aise insaan ki jo khud mein shaant hai, par andar se tufaan hai.</p>
+  </section>
+
+  <section class="section">
+    <h2>2. Duniya aur Parivaar</h2>
+    <p>Uska janam ek <span class="highlight">gareeb parivaar</span> mein hua. Bachpan se hi sidha-saadha ladka tha —
+      na demand, na doston ka jhund. Maa ghar ke kaam ke liye bahar jaati thi, aur Mr X ghar sambhalta tha —
+      chhote bhai-behno ka khayal, khana banana, sab kuch apne kandhon par uthaya.</p>
+
+    <p>Jab wo sirf <span class="highlight">10 saal</span> ka tha, tab wo akela gaon se bhaag kar
+      Punjab ke <span class="highlight">Hoshiarpur</span> aa gaya — kaam ki talaash mein.
+      Wahin usne kaam ke saath apni padhai bhi puri ki. Ek aisa bachcha jise duniya ne mushkil di, par himmat bhi di.</p>
+  </section>
+
+  <section class="section">
+    <h2>3. Vartamaan Jeevan aur Pesha</h2>
+    <p>Aaj ke samay mein Mr X Thakur ek <span class="highlight">caretaker</span> ke roop mein kaam karta hai —
+      ek aunty ki dekhbhal karta hai jinko <span class="highlight">dementia</span> hai.
+      Uska kaam mushkil hai, par wo dil se karta hai.</p>
+
+    <p>Par kahani yahin nahi rukti — andar hi andar wo khud bhi
+      <span class="highlight">depression</span> se lad raha hai. Uske sapne hain, lekin un tak pahunchne ke raste
+      uske khayalon ke dhund mein kho jaate hain.</p>
+  </section>
+
+  <section class="section">
+    <h2>4. Vyaktitva (Personality)</h2>
+    <p>Mr X ek <span class="highlight">calm aur introverted</span> vyakti hai.
+      Use bheed pasand nahi, shor se dur rehna acha lagta hai.
+      Uske liye khud ke sath waqt bitana ek therapy hai. Wo zyada bolta nahi,
+      par jab kuch kehta hai to seedha dil tak chhoo jaata hai.</p>
+  </section>
+
+  <section class="section">
+    <h2>5. Sapne aur Lakshya</h2>
+    <div class="goal-box">
+      "Apne looks ko behtar banana, height badhana, aur samaj mein acceptance paana —
+      ye uske personal goals hain. Na koi khas talent, na extraordinary appearance,
+      par ek jazba hai — khud ko sudharne ka."
+    </div>
+
+    <p>Mr X Thakur ka maanna hai ki duniya tab tak aapko accept nahi karti jab tak aap
+      khud ko accept nahi karte. Aur yehi uska jeevan mantra hai.</p>
+  </section>
+
+  <section class="section">
+    <h2>6. Antim Sandesh</h2>
+    <p>Har insaan ke andar ek kahani hoti hai jo duniya nahi jaanti.
+      Mr X Thakur ki kahani bhi unhi anjaani kahaniyon mein se ek hai —
+      jahan struggle hai, tanhai hai, par umeed bhi hai.</p>
+    <p>Agar aapne kabhi apne sapnon se haar nahi maani, to aap bhi Mr X Thakur ke jaise ho.</p>
+
+    <a class="button" href="#top">⬆️ Wapas Upar</a>
+  </section>
+
+  <footer>
+    © 2025 Mr X Thakur | Life Story by Sunil Thakur  
+  </footer>
+</body>
+</html>iting :)
+
+(C) 2014. Just another Airpub blog. Powered by [Airpub.io](http://airpub.io)
